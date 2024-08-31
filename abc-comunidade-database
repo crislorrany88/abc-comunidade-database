@@ -1,1 +1,3 @@
-
+git add .
+git commit -m "Adiciona código-fonte do sistema de banco de dados"
+git push origin main
